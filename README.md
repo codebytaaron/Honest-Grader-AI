@@ -1,6 +1,6 @@
 # Honest Grader AI (local)
 
-A local web app that grades schoolwork against a rubric and gives direct feedback, top fixes, and rewrite suggestions.
+A local web app that grades schoolwork against a rubric and gives direct feedback, top fixes, and rewrite suggestions, check it out via link.
 
 ## What you need
 - Python 3.10+
